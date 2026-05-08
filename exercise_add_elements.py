@@ -10,4 +10,5 @@ def add_elements(lista):
     Returns:
         La lista modificada con los elementos agregados
     """
-    pass  # Reemplazar con tu implementación
+    lista.insert(0, "pink")
+    return lista.append('Yellow')
